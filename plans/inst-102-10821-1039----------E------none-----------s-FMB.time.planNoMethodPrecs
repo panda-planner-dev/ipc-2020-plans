@@ -1,0 +1,1 @@
+(switch_on instrument0 satellite0)(turn_to satellite0 star0 phenomenon1)(calibrate satellite0 instrument0 star0)(turn_to satellite0 phenomenon2 star0)(take_image satellite0 phenomenon2 instrument0 image1)

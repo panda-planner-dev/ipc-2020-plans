@@ -1,0 +1,4 @@
+total-order-generated/SmartPhone/problems/05-OrganizeMeeting_with_preferences_hasPhoneNumber.hddl
+total-order-generated/SmartPhone/domains/SmartPhone-HierarchicalNoAxioms.hddl
+attachRegularInformationToSMS[sms1,dateForMeeting];press_Home_Messages[];press_Messages_NewMessage[];enter_Number_ForSMS_Office[Biundo,BiundoOfficeNumber];press_NewMessage_Send_Office[Biundo,sms1];extractsInformation_Regular[Biundo,sms1,dateForMeeting]
+attachRegularInformationToSMS[sms1,dateForMeeting];press_Home_Messages[];press_Messages_NewMessage[];enter_Number_ForSMS_Office[Biundo,BiundoOfficeNumber];press_NewMessage_Send_Office[Biundo,sms1];extractsInformation_Regular[Biundo,sms1,dateForMeeting]

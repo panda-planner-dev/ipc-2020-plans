@@ -1,0 +1,1 @@
+(collect_fees Toshiba_Laptops)(move_vehicle_no_traincar Pferd Bibliothek Frauen_Strasse O27)(open_door Pferd)(load_package Toshiba_Laptops Pferd O27)(close_door Pferd)(move_vehicle_no_traincar Pferd O27 James_Franck_Ring O28)(open_door Pferd)(unload_package Toshiba_Laptops Pferd O28)(close_door Pferd)(deliver_p Toshiba_Laptops)

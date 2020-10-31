@@ -1,0 +1,1 @@
+(connect_8 pc-bPlugType1 cableWithPlugType1-a plugType1)(connect_4 cableWithPlugType1-b adapterFromPlugType1ToPlugType2-aPlugType1 plugType1)(connect_3 cableWithPlugType2-b printer-aPlugType2 plugType2)(connect_8 adapterFromPlugType1ToPlugType2-bPlugType2 cableWithPlugType2-a plugType2)(guard)(ok)

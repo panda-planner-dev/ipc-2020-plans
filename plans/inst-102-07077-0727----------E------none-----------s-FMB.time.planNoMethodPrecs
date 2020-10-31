@@ -1,0 +1,1 @@
+(move f0 f1)(board p0 f1)(move f1 f0)(debark p0 f0)

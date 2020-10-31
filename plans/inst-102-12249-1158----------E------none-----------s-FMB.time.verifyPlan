@@ -1,0 +1,4 @@
+total-order-generated/Woodworking/problems/02--p02-part1.hddl
+total-order-generated/Woodworking/domains/woodworking-legal-fewer-htn-groundings.hddl
+do_plane[p0,smooth,red,varnished,smooth,untreated,natural];do_saw_medium[b0,p1,pine,rough,s3,s2,s1,medium,natural,untreated];do_plane[p2,verysmooth,natural,varnished,smooth,untreated,natural];do_glaze[p1,glazer0,red,untreated,untreated,glazed,natural];do_plane[p1,rough,red,glazed,smooth,untreated,natural];do_glaze[p2,glazer0,red,untreated,untreated,glazed,natural]
+do_plane[p0,smooth,red,varnished,smooth,untreated,natural];do_saw_medium[b0,p1,pine,rough,s3,s2,s1,medium,natural,untreated];do_plane[p2,verysmooth,natural,varnished,smooth,untreated,natural];do_glaze[p1,glazer0,red,untreated,untreated,glazed,natural];do_plane[p1,rough,red,glazed,smooth,untreated,natural];do_glaze[p2,glazer0,red,untreated,untreated,glazed,natural]

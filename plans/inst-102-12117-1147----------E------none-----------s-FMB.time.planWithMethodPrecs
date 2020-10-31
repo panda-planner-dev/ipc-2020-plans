@@ -1,0 +1,1 @@
+(collect_fees Tische)(open_door LKW)(load_package Tische LKW Vendee)(close_door LKW)(move_vehicle_no_traincar LKW Vendee VendeeFrancheComteRoadRoute FrancheComte)(open_door LKW)(unload_package Tische LKW FrancheComte)(close_door LKW)(deliver_p Tische)
