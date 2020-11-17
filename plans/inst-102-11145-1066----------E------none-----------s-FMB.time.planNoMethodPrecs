@@ -1,1 +1,1 @@
-(move-long viper px2y1 px1y1 px1y2 px1y3)(__noop;strike viper px2y1 px3y1)
+(move-long viper px2y1 px1y1 px1y2 px1y3)(strike viper px2y1 px3y1)
