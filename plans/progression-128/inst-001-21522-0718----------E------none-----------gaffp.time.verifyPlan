@@ -1,4 +1,3 @@
 ipc2020-domains/total-order/Robot/pfile_03_003.hddl
 ipc2020-domains/total-order/Robot/domain.hddl
-move[c,r2,d02];move[r2,r1,d12];move[r1,r3,d13];__method_precondition_achieve-goals-pickup_split[r3,o3];pickup[o3,r3];move[r3,r1,d13];__method_precondition_release-putdown_abstract_split[r1,o3];putdown[o3,r1];move[r1,r3,d13];__method_precondition_achieve-goals-pickup_split[r3,o1];pickup[o1,r3];move[r3,r1,d13];move[r1,r2,d12];__method_precondition_release-putdown_abstract_split[r2,o1];putdown[o1,r2];move[r2,r1,d12];__method_precondition_achieve-goals-pickup_split[r1,o2];pickup[o2,r1];move[r1,r2,d12];__method_precondition_release-putdown_abstract_split[r2,o2];putdown[o2,r2];__noop
 move[c,r2,d02];move[r2,r1,d12];move[r1,r3,d13];pickup[o3,r3];move[r3,r1,d13];putdown[o3,r1];move[r1,r3,d13];pickup[o1,r3];move[r3,r1,d13];move[r1,r2,d12];putdown[o1,r2];move[r2,r1,d12];pickup[o2,r1];move[r1,r2,d12];putdown[o2,r2]

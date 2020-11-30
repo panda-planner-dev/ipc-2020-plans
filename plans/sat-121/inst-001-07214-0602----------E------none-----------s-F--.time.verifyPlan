@@ -1,0 +1,3 @@
+ipc2020-domains/total-order/Monroe-Fully-Observable/pfile04-p-0016-fix-power-line-no-pref-tlt.hddl
+ipc2020-domains/total-order/Monroe-Fully-Observable/pfile04-p-0016-fix-power-line-no-pref-tlt-domain.hddl
+SHOP_methodm_get_to_already_there_precondition[pcrew1,henrietta_dump];SHOP_methodm_get_to_already_there_precondition[van1,henrietta_dump];SHOP_methodm_repair_line_without_tree_precondition[henrietta_dump,pcrew1];SHOP_methodm_shut_off_power_precondition[henrietta_dump,henrietta,rge];call[rge];remove_wire[pcrew1,henrietta_dump];string_wire[pcrew1,henrietta_dump];SHOP_methodm_turn_on_power_precondition[henrietta_dump,henrietta,rge];call[rge]

@@ -1,4 +1,3 @@
 ipc2020-domains/total-order/Monroe-Fully-Observable/pfile01-p-0092-set-up-shelter-no-pref-tlt.hddl
 ipc2020-domains/total-order/Monroe-Fully-Observable/pfile01-p-0092-set-up-shelter-no-pref-tlt-domain.hddl
 SHOP_methodm_quell_riot_precondition[strong,rochester];call[ebs];call[police_chief];SHOP_methodm_get_to_already_there_precondition[pu2,strong];SHOP_methodm_get_to_already_there_precondition[pu1,strong];set_up_barricades[pu2];set_up_barricades[pu1]
-SHOP_methodm_quell_riot_precondition[strong,rochester];call[ebs];call[police_chief];SHOP_methodm_get_to_already_there_precondition[pu2,strong];SHOP_methodm_get_to_already_there_precondition[pu1,strong];set_up_barricades[pu2];set_up_barricades[pu1]
