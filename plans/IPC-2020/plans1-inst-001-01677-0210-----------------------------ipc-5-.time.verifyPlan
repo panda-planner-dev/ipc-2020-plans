@@ -1,0 +1,3 @@
+ipc2020-domains/total-order/AssemblyHierarchical/domain.hddl
+ipc2020-domains/total-order/AssemblyHierarchical/genericLinearProblem_depth01.hddl
+connect_8[pc-bplugtype1,cablewithplugtype1-b,plugtype1];connect_3[cablewithplugtype1-a,printer-aplugtype1,plugtype1];guard[];ok[]

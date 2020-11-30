@@ -1,0 +1,3 @@
+ipc2020-domains/total-order/Monroe-Partially-Observable/pfile01-p-0014-fix-power-line-4-domain.hddl
+ipc2020-domains/total-order/Monroe-Partially-Observable/pfile01-p-0014-fix-power-line-4.hddl
+shop_methodm_get_to_person_drives_themself_precondition[pcrew1,brighton_dump,van1,pittsford_plaza];shop_methodm_drive_to_precondition[van1,pittsford_plaza,pcrew1];p_1navegate_vehicle[];shop_methodm_get_to_already_there_precondition[van1,brighton_dump];shop_methodm_repair_line_without_tree_precondition[brighton_dump,pcrew1];shop_methodm_shut_off_power_precondition[brighton_dump,brighton,rge];p_2call[];p_3remove_wire[];p_4string_wire[];shop_methodm_turn_on_power_precondition[brighton_dump,brighton,rge];call[rge]

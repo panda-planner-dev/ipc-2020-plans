@@ -1,0 +1,3 @@
+ipc2020-domains/total-order/Barman-BDI/domain.hddl
+ipc2020-domains/total-order/Barman-BDI/pfile01.hddl
+grasp[right,shot2];fill-shot[shot2,ingredient2,right,left,dispenser2];pour-shot-to-clean-shaker[shot2,ingredient2,shaker1,right,level1,level1];drop[right,shot2];grasp[right,shot1];fill-shot[shot1,ingredient1,right,left,dispenser1];pour-shot-to-used-shaker[shot1,ingredient1,shaker1,right,level1,level1];grasp[left,shaker1];drop[right,shot1];shake[cocktail1,ingredient2,ingredient1,shaker1,left,right];grasp[right,shot2];drop[left,shaker1];clean-shot[shot2,ingredient2,right,left];drop[right,shot2];grasp[right,shaker1];pour-shaker-to-shot[cocktail1,shot2,right,shaker1,level1,level1]

@@ -1,3 +1,3 @@
-ipc2020-domains/total-order/Snake/pb09.snake.hddl
 ipc2020-domains/total-order/Snake/domain.hddl
+ipc2020-domains/total-order/Snake/pb09.snake.hddl
 move-long[viper,px3y1,px3y0,px2y4,px3y4];move-long[viper,px3y2,px3y1,px1y4,px2y4];move-long[viper,px3y3,px3y2,px0y4,px1y4];move-long[viper,px3y4,px3y3,px0y3,px0y4];strike[viper,px3y4,px3y5];strike[viper,px3y5,px2y5];move-long[viper,px2y4,px2y5,px0y2,px0y3];move-long[viper,px1y4,px2y4,px0y1,px0y2];strike[viper,px1y4,px1y5];strike[viper,px1y5,px0y5]

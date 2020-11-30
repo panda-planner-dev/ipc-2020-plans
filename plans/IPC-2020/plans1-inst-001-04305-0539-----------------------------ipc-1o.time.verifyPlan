@@ -1,0 +1,3 @@
+ipc2020-domains/total-order/Factories-simple/domain.hddl
+ipc2020-domains/total-order/Factories-simple/pfile01.hddl
+produce-without-demands[resource_0,factory_0,location_0];pickup[resource_0,location_0];move[location_0,location_1];drop[resource_0,location_1];construct[factory_1,resource_0,location_1];produce-without-demands[resource_0,factory_0,location_0];move[location_1,location_0];pickup[resource_0,location_0];move[location_0,location_1];drop[resource_0,location_1];produce[resource_1,resource_0,factory_1,location_1];move[location_1,location_0];move[location_0,location_1];move[location_1,location_0];move[location_0,location_1];pickup[resource_1,location_1];move[location_1,last_location];drop[resource_1,last_location];construct[last_factory,resource_1,last_location]
