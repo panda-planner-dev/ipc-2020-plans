@@ -1,0 +1,4 @@
+ipc2020-domains/total-order/Towers/pfile_01.hddl
+ipc2020-domains/total-order/Towers/domain.hddl
+__method_precondition_m-shiftTower[r1,t1];__method_precondition_selectedDirection[r1,t1];move[r1,t1,t1,t3,t3];__method_precondition_exchangeClear[t1,t2]
+move[r1,t1,t1,t3,t3]

@@ -1,0 +1,4 @@
+ipc2020-domains/total-order/Robot/pfile_03_005.hddl
+ipc2020-domains/total-order/Robot/domain.hddl
+open[c,r1,d01];move[c,r1,d01];move[r1,r2,d12];__method_precondition_achieve-goals-pickup_split_split[r2,o5];pickup[o5,r2];move[r2,r1,d12];move[r1,r3,d13];__method_precondition_release-putdown_abstract_split[r3,o5];putdown[o5,r3];move[r3,r1,d13];move[r1,r2,d12];__method_precondition_achieve-goals-pickup_split_split[r2,o4];pickup[o4,r2];move[r2,r1,d12];__method_precondition_release-putdown_abstract_split[r1,o4];putdown[o4,r1];__method_precondition_achieve-goals-pickup_split_split[r1,o3];pickup[o3,r1];move[r1,r3,d13];__method_precondition_release-putdown_abstract_split[r3,o3];putdown[o3,r3];__noop
+open[c,r1,d01];move[c,r1,d01];move[r1,r2,d12];pickup[o5,r2];move[r2,r1,d12];move[r1,r3,d13];putdown[o5,r3];move[r3,r1,d13];move[r1,r2,d12];pickup[o4,r2];move[r2,r1,d12];putdown[o4,r1];pickup[o3,r1];move[r1,r3,d13];putdown[o3,r3]

@@ -1,0 +1,4 @@
+ipc2020-domains/total-order/Monroe-Partially-Observable/pfile02-p-0051-plow-road-3.hddl
+ipc2020-domains/total-order/Monroe-Partially-Observable/pfile02-p-0051-plow-road-3-domain.hddl
+SHOP_methodm_plow_road_precondition[twelve_corners,strong,plow2,henrietta_dump];SHOP_methodm_get_to_already_there_precondition[pdriver2,henrietta_dump];p_1Navegate_snowplow[];p_2Engage_plow[];p_3Navegate_snowplow[];disengage_plow[pdriver2,plow2]
+SHOP_methodm_plow_road_precondition[twelve_corners,strong,plow2,henrietta_dump];SHOP_methodm_get_to_already_there_precondition[pdriver2,henrietta_dump];p_1Navegate_snowplow[];p_2Engage_plow[];p_3Navegate_snowplow[];disengage_plow[pdriver2,plow2]
