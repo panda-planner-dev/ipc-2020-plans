@@ -1,3 +1,0 @@
-ipc2020-domains/total-order/Satellite-GTOHP/p01.hddl
-ipc2020-domains/total-order/Satellite-GTOHP/domain.hddl
-switch_on[instrument0,satellite0];nop[];turn_to[satellite0,GroundStation2,Phenomenon6];calibrate[satellite0,instrument0,GroundStation2];turn_to[satellite0,Phenomenon4,GroundStation2];take_image[satellite0,Phenomenon4,instrument0,thermograph0];nop[];turn_to[satellite0,Star5,Phenomenon4];take_image[satellite0,Star5,instrument0,thermograph0];nop[];turn_to[satellite0,Phenomenon6,Star5];take_image[satellite0,Phenomenon6,instrument0,thermograph0]

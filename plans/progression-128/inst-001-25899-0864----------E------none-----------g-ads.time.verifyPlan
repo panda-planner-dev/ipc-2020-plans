@@ -1,3 +1,0 @@
-ipc2020-domains/total-order/Woodworking/01--p01-complete.hddl
-ipc2020-domains/total-order/Woodworking/domain.hddl
-do_plane[p2,verysmooth,natural,varnished,smooth,untreated,natural];do_plane[p0,smooth,red,varnished,smooth,untreated,natural];do_spray_varnish[p2,spray_varnisher0,red,smooth,untreated,untreated,varnished,natural]

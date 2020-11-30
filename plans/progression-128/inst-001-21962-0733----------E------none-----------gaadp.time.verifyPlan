@@ -1,3 +1,0 @@
-ipc2020-domains/total-order/Rover-GTOHP/p01.hddl
-ipc2020-domains/total-order/Rover-GTOHP/domain.hddl
-visit[waypoint1];navigate[rover0,waypoint1,waypoint0];unvisit[waypoint1];nop[];sample_soil[rover0,rover0store,waypoint0];communicate_soil_data2[rover0,general,waypoint0,waypoint1];nop[];drop[rover0,rover0store];sample_rock[rover0,rover0store,waypoint0];communicate_rock_data2[rover0,general,waypoint0,waypoint1];nop[];calibrate[rover0,camera0,objective0,waypoint0];nop[];take_image[rover0,waypoint0,objective1,camera0,low_res];nop[];communicate_image_data[rover0,general,objective1,low_res,waypoint0,waypoint1]

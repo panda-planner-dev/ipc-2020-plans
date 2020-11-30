@@ -1,3 +1,0 @@
-ipc2020-domains/total-order/Snake/pb03.snake.hddl
-ipc2020-domains/total-order/Snake/domain.hddl
-move-short[viper,px2y1,px2y2];strike[viper,px2y1,px2y0];move-long[viper,px1y0,px2y0,px2y0,px2y1];strike[viper,px1y0,px0y0]

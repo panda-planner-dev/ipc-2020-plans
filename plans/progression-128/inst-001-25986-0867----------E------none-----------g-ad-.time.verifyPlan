@@ -1,3 +1,0 @@
-ipc2020-domains/total-order/Woodworking/04--p02-part3.hddl
-ipc2020-domains/total-order/Woodworking/domain.hddl
-do_saw_medium[b0,p1,walnut,smooth,s6,s5,s4,medium,natural,untreated];do_glaze[p1,glazer0,blue,untreated,untreated,glazed,natural];do_grind[p0,verysmooth,natural,glazed,untreated,verysmooth,natural];do_spray_varnish[p0,spray_varnisher0,blue,verysmooth,untreated,untreated,varnished,natural];do_plane[p5,rough,natural,glazed,smooth,untreated,natural];do_spray_varnish[p5,spray_varnisher0,blue,smooth,untreated,untreated,varnished,natural]

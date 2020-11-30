@@ -1,3 +1,0 @@
-ipc2020-domains/total-order/Depots/p01.hddl
-ipc2020-domains/total-order/Depots/domain.hddl
-Drive[truck0,distributor1,depot0];nop[];Lift[hoist0,crate1,pallet0,depot0];Load[hoist0,crate1,truck0,depot0];Drive[truck0,depot0,distributor0];nop[];Lift[hoist1,crate0,pallet1,distributor0];nop[];Load[hoist1,crate0,truck0,distributor0];Unload[hoist1,crate1,truck0,distributor0];Drop[hoist1,crate1,pallet1,distributor0];Drive[truck0,distributor0,distributor1];nop[];Unload[hoist2,crate0,truck0,distributor1];Drop[hoist2,crate0,pallet2,distributor1]
