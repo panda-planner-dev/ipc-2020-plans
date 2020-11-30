@@ -1,1 +1,0 @@
-(__method_precondition_m1_go_ordering_0 f2 f0 f3 p0)(__method_precondition_m2_ordering_0 f0)(move f0 f3)(board p0 f3)(move f3 f2)(debark p0 f2)(__method_precondition_m1_go_ordering_0 f3 f2 f1 p1)(__method_precondition_m2_ordering_0 f2)(move f2 f1)(board p1 f1)(move f1 f3)(debark p1 f3)(__method_precondition_m1_abort_ordering_0)

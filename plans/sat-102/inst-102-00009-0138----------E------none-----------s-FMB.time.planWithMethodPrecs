@@ -1,1 +1,0 @@
-(connect_8 pc-bPlugType1 cableWithPlugType1-a plugType1)(connect_3 cableWithPlugType1-b printer-aPlugType1 plugType1)(guard)(__method_precondition_vPC_to_vPC data pc-bPlugType1 cableWithPlugType1-a cableWithPlugType1-b)(__method_precondition_finish cableWithPlugType1-b printer-aPlugType1)(ok)

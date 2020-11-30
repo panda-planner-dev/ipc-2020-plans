@@ -1,1 +1,0 @@
-(fly a1 c2 c4 f6 f5)(board p1 a1 c4)(fly a1 c4 c3 f5 f4)(debark p1 a1 c3)(fly a1 c3 c2 f4 f3)(board p4 a1 c2)(fly a1 c2 c4 f3 f2)(debark p4 a1 c4)(fly a1 c4 c1 f2 f1)(board p3 a1 c1)(fly a1 c1 c4 f1 f0)(debark p3 a1 c4)(refuel a1 f0 f6)(fly a1 c4 c1 f6 f0)(board p2 a1 c1)(refuel a1 f0 f5)(fly a1 c1 c4 f5 f0)(debark p2 a1 c4)

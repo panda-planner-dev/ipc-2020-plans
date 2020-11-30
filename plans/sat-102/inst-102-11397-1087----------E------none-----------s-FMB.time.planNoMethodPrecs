@@ -1,1 +1,0 @@
-(attachRegularInformationToSMS sms1 dateForMeeting)(press_Home_Messages)(press_Messages_NewMessage)(enter_Number_ForSMS_Office Biundo BiundoOfficeNumber)(press_NewMessage_Send_Office Biundo sms1)(extractsInformation_Regular Biundo sms1 dateForMeeting)

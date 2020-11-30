@@ -1,4 +1,0 @@
-total-order/Snake/problems/pb02.snake.hddl
-total-order/Snake/domains/snake.hddl
-__method_precondition_hunt_all[viper,px0y0,px2y2,px0y1];__method_precondition_move-long-snake[viper,px2y2,px1y2,px2y2,px2y1];move-long[viper,px1y2,px2y2,px2y2,px2y1];__method_precondition_move-long-snake[viper,px1y2,px1y1,px1y2,px2y2];move-long[viper,px1y1,px1y2,px1y2,px2y2];__method_precondition_move-long-snake[viper,px1y1,px0y1,px1y1,px1y2];move-long[viper,px0y1,px1y1,px1y1,px1y2];strike[viper,px0y1,px0y0];__method_precondition_hunt_done[]
-move-long[viper,px1y2,px2y2,px2y2,px2y1];move-long[viper,px1y1,px1y2,px1y2,px2y2];move-long[viper,px0y1,px1y1,px1y1,px1y2];strike[viper,px0y1,px0y0]

@@ -1,1 +1,0 @@
-(__method_precondition_hunt_all viper px0y0 px2y2 px0y1)(__method_precondition_move-short-snake viper px2y2 px1y2)(move-short viper px1y2 px2y2)(__method_precondition_move-short-snake viper px1y2 px0y2)(move-short viper px0y2 px1y2)(__method_precondition_move-short-snake viper px0y2 px0y1)(move-short viper px0y1 px0y2)(strike viper px0y1 px0y0)(__method_precondition_hunt_done)

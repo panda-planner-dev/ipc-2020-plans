@@ -1,4 +1,0 @@
-total-order-generated/SmartPhone/problems/06-OrganizeMeeting_with_preferences_noPhoneNumber.hddl
-total-order-generated/SmartPhone/domains/SmartPhone-HierarchicalNoAxioms.hddl
-attachRegularInformationToEMail[email1,dateForMeeting];press_Home_Default[];press_Home_EMail[];select_EMail_EMailAccount_NoOp[account1];press_EMail_NewEMail[account1];enter_EMailAddress[Biundo,BiundoEMailAddress];press_EMail_NewEMail_Send[Biundo,email1];extractsInformation_Regular[Biundo,email1,dateForMeeting]
-attachRegularInformationToEMail[email1,dateForMeeting];press_Home_Default[];press_Home_EMail[];select_EMail_EMailAccount_NoOp[account1];press_EMail_NewEMail[account1];enter_EMailAddress[Biundo,BiundoEMailAddress];press_EMail_NewEMail_Send[Biundo,email1];extractsInformation_Regular[Biundo,email1,dateForMeeting]

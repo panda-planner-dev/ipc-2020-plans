@@ -1,1 +1,0 @@
-(__method_precondition_m-shiftTower r1 t1)(__method_precondition_m-selectDirection r1 r2)(__method_precondition_selectedDirection r2 t1)(move r1 r2 t1 t2 t2)(__method_precondition_exchangeLR r2 t3 t1 t3)(move r2 t1 t1 t3 t3)(move r1 t2 t2 r2 t3)(__method_precondition_exchangeClear t2 t1)

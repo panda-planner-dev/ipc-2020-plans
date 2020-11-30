@@ -1,1 +1,0 @@
-(move f0 f0)(board p2 f0)(move f0 f5)(debark p2 f5)(move f5 f3)(board p0 f3)(move f3 f0)(debark p0 f0)(move f0 f2)(board p1 f2)(move f2 f0)(debark p1 f0)
