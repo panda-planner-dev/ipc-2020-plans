@@ -1,0 +1,1 @@
+board[p1,a1,c1];fly[a1,c1,c2,f4,f3];debark[p1,a1,c2];board[p3,a1,c2];fly[a1,c2,c1,f3,f2];debark[p3,a1,c1];board[p2,a1,c1];fly[a1,c1,c2,f2,f1];debark[p2,a1,c2]
