@@ -1,3 +1,3 @@
-/home/behnkeg/benchmarks/ipc2020-domains/partial-order/UM-Translog/domain.hddl
-/home/behnkeg/benchmarks/ipc2020-domains/partial-order/UM-Translog/14-A-RegularTruck-2Regions.hddl
+ipc2020-domains/partial-order/UM-Translog/domain.hddl
+ipc2020-domains/partial-order/UM-Translog/14-A-RegularTruck-2Regions.hddl
 collect_fees[tische];open_door[lkw];load_package[tische,lkw,vendee];close_door[lkw];move_vehicle_no_traincar[lkw,vendee,vendeefranchecomteroadroute,franchecomte];open_door[lkw];unload_package[tische,lkw,franchecomte];close_door[lkw];deliver_p[tische]

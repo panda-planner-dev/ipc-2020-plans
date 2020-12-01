@@ -1,3 +1,3 @@
-/home/behnkeg/benchmarks/ipc2020-domains/partial-order/UM-Translog/domain.hddl
-/home/behnkeg/benchmarks/ipc2020-domains/partial-order/UM-Translog/08-A-HopperTruck.hddl
+ipc2020-domains/partial-order/UM-Translog/domain.hddl
+ipc2020-domains/partial-order/UM-Translog/08-A-HopperTruck.hddl
 collect_fees[sandpackage];connect_chute[pferd];fill_hopper[sandpackage,pferd,o27];disconnect_chute[pferd];move_vehicle_no_traincar[pferd,o27,james_franck_ring,o28];connect_chute[pferd];empty_hopper[sandpackage,pferd,o28];disconnect_chute[pferd];deliver_p[sandpackage]

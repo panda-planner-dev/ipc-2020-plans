@@ -1,0 +1,3 @@
+ipc2020-domains/partial-order/Satellite/domain.hddl
+ipc2020-domains/partial-order/Satellite/6obs-2sat-2mod.hddl
+switch_on[instrument0,satellite0];turn_to[satellite0,star0,star3];calibrate[satellite0,instrument0,star0];turn_to[satellite0,star2,star0];take_image[satellite0,star2,instrument0,infrared1];turn_to[satellite0,star7,star2];take_image[satellite0,star7,instrument0,spectrograph0];turn_to[satellite0,star3,star7];take_image[satellite0,star3,instrument0,infrared1];turn_to[satellite0,phenomenon6,star3];take_image[satellite0,phenomenon6,instrument0,infrared1];turn_to[satellite0,phenomenon5,phenomenon6];take_image[satellite0,phenomenon5,instrument0,spectrograph0];turn_to[satellite0,star4,phenomenon5];take_image[satellite0,star4,instrument0,spectrograph0]

@@ -1,3 +1,3 @@
-/home/behnkeg/benchmarks/ipc2020-domains/partial-order/Satellite/domain.hddl
-/home/behnkeg/benchmarks/ipc2020-domains/partial-order/Satellite/1obs-2sat-1mod.hddl
+ipc2020-domains/partial-order/Satellite/domain.hddl
+ipc2020-domains/partial-order/Satellite/1obs-2sat-1mod.hddl
 switch_on[instrument0,satellite0];turn_to[satellite0,star0,phenomenon1];calibrate[satellite0,instrument0,star0];turn_to[satellite0,star5,star0];take_image[satellite0,star5,instrument0,image1]

@@ -1,3 +1,3 @@
-/home/behnkeg/benchmarks/ipc2020-domains/partial-order/UM-Translog/domain.hddl
-/home/behnkeg/benchmarks/ipc2020-domains/partial-order/UM-Translog/16-A-RegularTruck-4Locations.hddl
+ipc2020-domains/partial-order/UM-Translog/domain.hddl
+ipc2020-domains/partial-order/UM-Translog/16-A-RegularTruck-4Locations.hddl
 move_vehicle_no_traincar[pferd,rathaus,albecker_strasse,bibliothek];collect_fees[toshiba_laptops];move_vehicle_no_traincar[pferd,bibliothek,frauen_strasse,o27];open_door[pferd];load_package[toshiba_laptops,pferd,o27];close_door[pferd];move_vehicle_no_traincar[pferd,o27,james_franck_ring,o28];open_door[pferd];unload_package[toshiba_laptops,pferd,o28];close_door[pferd];deliver_p[toshiba_laptops]

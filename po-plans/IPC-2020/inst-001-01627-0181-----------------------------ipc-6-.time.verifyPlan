@@ -1,3 +1,3 @@
-/home/behnkeg/benchmarks/ipc2020-domains/partial-order/UM-Translog/domain.hddl
-/home/behnkeg/benchmarks/ipc2020-domains/partial-order/UM-Translog/09-A-MailTraincar.hddl
+ipc2020-domains/partial-order/UM-Translog/domain.hddl
+ipc2020-domains/partial-order/UM-Translog/09-A-MailTraincar.hddl
 collect_fees[briefe];open_door[eisenbahnwagen];load_package[briefe,eisenbahnwagen,hauptbahnhofulm];close_door[eisenbahnwagen];attach_train_car[lokomotive,eisenbahnwagen,hauptbahnhofulm];move_vehicle_no_traincar[lokomotive,hauptbahnhofulm,ulmmuenchenrailroute,hauptbahnhofmuenchen];detach_train_car[lokomotive,eisenbahnwagen,hauptbahnhofmuenchen];open_door[eisenbahnwagen];unload_package[briefe,eisenbahnwagen,hauptbahnhofmuenchen];close_door[eisenbahnwagen];deliver_p[briefe]

@@ -1,3 +1,3 @@
-/home/behnkeg/benchmarks/ipc2020-domains/partial-order/UM-Translog/domain.hddl
-/home/behnkeg/benchmarks/ipc2020-domains/partial-order/UM-Translog/21-B-ParcelsChemicals.hddl
+ipc2020-domains/partial-order/UM-Translog/domain.hddl
+ipc2020-domains/partial-order/UM-Translog/21-B-ParcelsChemicals.hddl
 collect_fees[Toshiba_Laptops];open_door[LKW];load_package[Toshiba_Laptops,LKW,Firma];close_door[LKW];move_vehicle_no_traincar[LKW,Firma,James_Franck_Ring,Universitaet];open_door[LKW];unload_package[Toshiba_Laptops,LKW,Universitaet];close_door[LKW];deliver_p[Toshiba_Laptops];collect_fees[Tabletten];obtain_permit[Tabletten];affix_warning_signs[Kuehlwagen];connect_hose[Kuehlwagen,Tabletten];open_valve[Kuehlwagen];fill_tank[Kuehlwagen,Tabletten,Ulm];close_valve[Kuehlwagen];disconnect_hose[Kuehlwagen,Tabletten];move_vehicle_no_traincar[Kuehlwagen,Ulm,Landstrasse10,Heidenheim];connect_hose[Kuehlwagen,Tabletten];open_valve[Kuehlwagen];empty_tank[Kuehlwagen,Tabletten,Heidenheim];close_valve[Kuehlwagen];disconnect_hose[Kuehlwagen,Tabletten];decontaminate_interior[Kuehlwagen];remove_warning_signs[Kuehlwagen];deliver_h[Tabletten]

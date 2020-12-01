@@ -1,0 +1,3 @@
+ipc2020-domains/partial-order/Woodworking/domain.hddl
+ipc2020-domains/partial-order/Woodworking/07--p03-part1.hddl
+do_saw_large[b1,p1,teak,smooth,s7,s5,s6,s4];do_saw_large[b2,p3,mahogany,rough,s7,s5,s6,s4];do_saw_large[b3,p0,mahogany,smooth,s3,s1,s2,s0];do_saw_small[b3,p4,mahogany,smooth,s3,s2];do_saw_medium[b0,p2,teak,rough,s6,s5,s4];do_spray_varnish[p0,spray_varnisher0,green,smooth];do_spray_varnish[p4,spray_varnisher0,mauve,smooth];do_glaze[p2,glazer0,mauve];do_grind_untreated[p1,grinder0,smooth,natural];do_immersion_varnish[p1,immersion_varnisher0,black,verysmooth];do_grind_untreated[p3,grinder0,rough,natural];do_glaze[p3,glazer0,natural]

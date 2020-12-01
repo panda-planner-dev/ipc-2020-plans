@@ -1,0 +1,3 @@
+ipc2020-domains/partial-order/Woodworking/domain.hddl
+ipc2020-domains/partial-order/Woodworking/06--p02-complete.hddl
+do_plane[p0,verysmooth,natural,glazed];do_plane[p5,rough,mauve,glazed];do_grind[p2,smooth,black,glazed,untreated];do_saw_medium[b0,p1,walnut,smooth,s6,s5,s4];do_glaze[p2,glazer0,blue];do_glaze[p1,glazer0,blue];do_plane[p4,verysmooth,black,varnished];do_immersion_varnish[p4,immersion_varnisher0,mauve,smooth];do_immersion_varnish[p5,immersion_varnisher0,black,smooth];do_immersion_varnish[p0,immersion_varnisher0,black,smooth];do_saw_medium[b0,p3,walnut,smooth,s6,s5,s4];do_immersion_varnish[p3,immersion_varnisher0,black,smooth]

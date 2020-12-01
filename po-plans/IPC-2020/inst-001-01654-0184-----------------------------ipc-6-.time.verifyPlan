@@ -1,3 +1,3 @@
-/home/behnkeg/benchmarks/ipc2020-domains/partial-order/UM-Translog/domain.hddl
-/home/behnkeg/benchmarks/ipc2020-domains/partial-order/UM-Translog/12-A-RefrigeratedTankerTruck.hddl
+ipc2020-domains/partial-order/UM-Translog/domain.hddl
+ipc2020-domains/partial-order/UM-Translog/12-A-RefrigeratedTankerTruck.hddl
 collect_fees[chemicalien];obtain_permit[chemicalien];affix_warning_signs[pferd];connect_hose[pferd,chemicalien];open_valve[pferd];fill_tank[pferd,chemicalien,o27];close_valve[pferd];disconnect_hose[pferd,chemicalien];move_vehicle_no_traincar[pferd,o27,james_franck_ring,o28];connect_hose[pferd,chemicalien];open_valve[pferd];empty_tank[pferd,chemicalien,o28];close_valve[pferd];disconnect_hose[pferd,chemicalien];decontaminate_interior[pferd];remove_warning_signs[pferd];deliver_h[chemicalien]
