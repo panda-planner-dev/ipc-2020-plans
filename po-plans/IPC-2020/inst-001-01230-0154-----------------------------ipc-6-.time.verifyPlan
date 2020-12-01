@@ -1,0 +1,3 @@
+/home/behnkeg/benchmarks/ipc2020-domains/partial-order/UM-Translog/domain.hddl
+/home/behnkeg/benchmarks/ipc2020-domains/partial-order/UM-Translog/02-A-Airplane.hddl
+collect_fees[drucker];attach_conveyor_ramp[flugzeug,plane_rampstuttgart,flughafenstuttgart];open_door[flugzeug];load_package[drucker,flugzeug,flughafenstuttgart];close_door[flugzeug];detach_conveyor_ramp[flugzeug,plane_rampstuttgart,flughafenstuttgart];move_vehicle_no_traincar[flugzeug,flughafenstuttgart,stuttart_london_air_route,heathrowairport];attach_conveyor_ramp[flugzeug,plane_rampheathrow,heathrowairport];open_door[flugzeug];unload_package[drucker,flugzeug,heathrowairport];close_door[flugzeug];detach_conveyor_ramp[flugzeug,plane_rampheathrow,heathrowairport];deliver_p[drucker]

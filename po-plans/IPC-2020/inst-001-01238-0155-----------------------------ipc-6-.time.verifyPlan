@@ -1,0 +1,3 @@
+/home/behnkeg/benchmarks/ipc2020-domains/partial-order/UM-Translog/domain.hddl
+/home/behnkeg/benchmarks/ipc2020-domains/partial-order/UM-Translog/03-A-ArmoredRegularTruck.hddl
+collect_fees[gemaelde];collect_insurance[gemaelde];post_guard_outside[pferd];open_door[pferd];load_package[gemaelde,pferd,o27];close_door[pferd];post_guard_inside[pferd];move_vehicle_no_traincar[pferd,o27,james_franck_ring,o28];post_guard_outside[pferd];open_door[pferd];unload_package[gemaelde,pferd,o28];close_door[pferd];remove_guard[pferd];deliver_v[gemaelde]

@@ -1,0 +1,3 @@
+/home/behnkeg/benchmarks/ipc2020-domains/partial-order/UM-Translog/domain.hddl
+/home/behnkeg/benchmarks/ipc2020-domains/partial-order/UM-Translog/06-A-AutoTruck.hddl
+collect_fees[maseratimc12];lower_ramp[pferd];load_cars[maseratimc12,pferd,o27];raise_ramp[pferd];move_vehicle_no_traincar[pferd,o27,james_franck_ring,o28];lower_ramp[pferd];unload_cars[maseratimc12,pferd,o28];raise_ramp[pferd];deliver_p[maseratimc12]

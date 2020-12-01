@@ -1,0 +1,3 @@
+/home/behnkeg/benchmarks/ipc2020-domains/partial-order/Satellite/domain.hddl
+/home/behnkeg/benchmarks/ipc2020-domains/partial-order/Satellite/3obs-3sat-1mod.hddl
+switch_on[instrument2,satellite2];turn_to[satellite2,groundstation1,phenomenon8];calibrate[satellite2,instrument2,groundstation1];turn_to[satellite2,phenomenon6,groundstation1];take_image[satellite2,phenomenon6,instrument2,thermograph];turn_to[satellite2,star5,phenomenon6];take_image[satellite2,star5,instrument2,thermograph];turn_to[satellite2,phenomenon4,star5];take_image[satellite2,phenomenon4,instrument2,thermograph]

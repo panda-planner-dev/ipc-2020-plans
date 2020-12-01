@@ -1,0 +1,3 @@
+/home/behnkeg/benchmarks/ipc2020-domains/partial-order/Satellite/domain.hddl
+/home/behnkeg/benchmarks/ipc2020-domains/partial-order/Satellite/sat-B.hddl
+switch_on[instrument0_1,satellite0];turn_to[satellite0,GroundStation2,Phenomenon6];calibrate[satellite0,instrument0_1,GroundStation2];turn_to[satellite0,Phenomenon4,GroundStation2];take_image[satellite0,Phenomenon4,instrument0_1,thermograph0]
