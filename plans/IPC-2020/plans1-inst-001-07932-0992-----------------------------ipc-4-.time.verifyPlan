@@ -1,3 +1,3 @@
 ipc2020-domains/total-order/Snake/domain.hddl
 ipc2020-domains/total-order/Snake/pb01.snake.hddl
-move_short[viper,px1y2,px2y2];move_short[viper,px0y2,px1y2];move_short[viper,px1y2,px0y2];move_short[viper,px2y2,px1y2];move_short[viper,px2y1,px2y2];move_short[viper,px1y1,px2y1];move_short[viper,px0y1,px1y1];move_short[viper,px1y1,px0y1];move_short[viper,px2y1,px1y1];move_short[viper,px2y0,px2y1];move_short[viper,px1y0,px2y0];strike[viper,px1y0,px0y0]
+move_short[viper,px1y2,px2y2];move-short[viper,px0y2,px1y2];move-short[viper,px1y2,px0y2];move-short[viper,px2y2,px1y2];move-short[viper,px2y1,px2y2];move-short[viper,px1y1,px2y1];move-short[viper,px0y1,px1y1];move-short[viper,px1y1,px0y1];move-short[viper,px2y1,px1y1];move-short[viper,px2y0,px2y1];move-short[viper,px1y0,px2y0];strike[viper,px1y0,px0y0]
