@@ -1,0 +1,3 @@
+ipc2020-domains/partial-order/UM-Translog/14-A-RegularTruck-2Regions.hddl
+ipc2020-domains/partial-order/UM-Translog/domain.hddl
+collect_fees[Tische];load_package[Tische,LKW,Vendee];open_door[LKW];move_vehicle_no_traincar[LKW,Vendee,VendeeFrancheComteRoadRoute,FrancheComte];unload_package[Tische,LKW,FrancheComte];close_door[LKW];open_door[LKW];close_door[LKW];deliver_p[Tische]

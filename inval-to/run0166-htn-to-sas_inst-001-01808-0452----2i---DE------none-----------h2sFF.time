@@ -1,0 +1,3 @@
+ipc2020-domains/total-order/Logistics-Learned-ECAI-16/probLOGISTICS-08-0.hddl
+ipc2020-domains/total-order/Logistics-Learned-ECAI-16/domain.hddl
+i-FLAG-AT[OBJ32,POS1];i-FLAG-AT[OBJ23,APT1];i-FLAG-AT[OBJ31,APT2];i-LOCK-AT[OBJ13,APT3];i-LOCK-AT[OBJ12,POS2];i-LOCK-AT[OBJ33,APT1];i-LOCK-AT[OBJ22,POS2]

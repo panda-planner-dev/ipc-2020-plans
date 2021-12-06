@@ -1,0 +1,3 @@
+ipc2020-domains/partial-order/UM-Translog/06-A-AutoTruck.hddl
+ipc2020-domains/partial-order/UM-Translog/domain.hddl
+collect_fees[MaseratiMC12];lower_ramp[Pferd];raise_ramp[Pferd];lower_ramp[Pferd];load_cars[MaseratiMC12,Pferd,O27];move_vehicle_no_traincar[Pferd,O27,James_Franck_Ring,O28];unload_cars[MaseratiMC12,Pferd,O28];raise_ramp[Pferd];deliver_p[MaseratiMC12]

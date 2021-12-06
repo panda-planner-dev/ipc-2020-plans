@@ -1,0 +1,3 @@
+ipc2020-domains/total-order/Blocksworld-HPDDL/pfile_030.hddl
+ipc2020-domains/total-order/Blocksworld-HPDDL/domain.hddl
+mark_done[b25];unstack[b17,b22];putdown[b4];unstack[b17,b22];putdown[b10];unstack[b17,b22];putdown[b11];unstack[b11,b23];putdown[b12];unstack[b11,b23];putdown[b7];unstack[b11,b23];delete_goal_on[b17,b21];mark_done[b17];stack[b17,b21];unstack[b11,b23];delete_goal_on[b11,b30];mark_done[b11];stack[b11,b30];unstack[b11,b23];putdown[b18];mark_done[b28]

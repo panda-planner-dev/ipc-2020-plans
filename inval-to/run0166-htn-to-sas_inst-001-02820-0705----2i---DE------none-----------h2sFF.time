@@ -1,0 +1,3 @@
+ipc2020-domains/total-order/Multiarm-Blocksworld/pfile_07_065.hddl
+ipc2020-domains/total-order/Multiarm-Blocksworld/domain.hddl
+mark_done[b3];unstack[b18,b7,arm1];putdown[b13,arm2];unstack[b18,b7,arm1];putdown[b7,arm2];unstack[b18,b7,arm1];putdown[b4,arm2];unstack[b18,b7,arm1];putdown[b9,arm1];unstack[b18,b7,arm1];putdown[b11,arm2];mark_done[b6];mark_done[b1];mark_done[b16];mark_done[b14];mark_done[b8];mark_done[b4];mark_done[b13];mark_done[b20];mark_done[b5];mark_done[b15];mark_done[b19];mark_done[b2];mark_done[b12];mark_done[b7];mark_done[b18];mark_done[b9];mark_done[b17];mark_done[b10];mark_done[b11]

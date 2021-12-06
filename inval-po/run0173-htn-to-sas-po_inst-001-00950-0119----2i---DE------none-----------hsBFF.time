@@ -1,0 +1,3 @@
+ipc2020-domains/partial-order/Satellite/3obs-2sat-3mod.hddl
+ipc2020-domains/partial-order/Satellite/domain.hddl
+switch_on[instrument03,satellite0];turn_to[satellite0,GroundStation0,Phenomenon6];calibrate[satellite0,instrument03,GroundStation0];turn_to[satellite0,Phenomenon6,GroundStation0];take_image[satellite0,Phenomenon6,instrument03,hd_video];take_image[satellite0,Phenomenon6,instrument03,hd_video];take_image[satellite0,Phenomenon6,instrument03,hd_video]

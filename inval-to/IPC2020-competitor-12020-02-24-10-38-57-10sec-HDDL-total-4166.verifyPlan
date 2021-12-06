@@ -1,0 +1,3 @@
+domains/total-order/UM-Translog/domain.hddl
+domains/total-order/UM-Translog/02-A-Airplane.hddl
+collect_fees[Drucker];obtain_permit[Drucker];attach_conveyor_ramp[Flugzeug,Plane_RampStuttgart,FlughafenStuttgart];open_door[Flugzeug];load_package[Drucker,Flugzeug,FlughafenStuttgart];close_door[Flugzeug];detach_conveyor_ramp[Flugzeug,Plane_RampStuttgart,FlughafenStuttgart];move_vehicle_no_traincar[Flugzeug,FlughafenStuttgart,Stuttart_London_Air_Route,HeathrowAirport];post_guard_outside[Flugzeug];connect_hose[Flugzeug,Drucker];open_valve[Flugzeug];empty_tank[Flugzeug,Drucker,HeathrowAirport];close_valve[Flugzeug];disconnect_hose[Flugzeug,Drucker];remove_guard[Flugzeug];deliver_h[Drucker]

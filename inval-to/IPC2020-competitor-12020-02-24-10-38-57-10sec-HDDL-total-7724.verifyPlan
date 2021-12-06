@@ -1,0 +1,3 @@
+domains/total-order/UM-Translog/domain.hddl
+domains/total-order/UM-Translog/06-A-AutoTruck.hddl
+collect_fees[MaseratiMC12];obtain_permit[MaseratiMC12];open_door[Pferd];load_package[MaseratiMC12,Pferd,O27];close_door[Pferd];move_vehicle_no_traincar[Pferd,O27,James_Franck_Ring,O28];post_guard_outside[Pferd];lower_ramp[Pferd];unload_livestock[MaseratiMC12,Pferd,O28];do_clean_interior[Pferd];raise_ramp[Pferd];remove_guard[Pferd];deliver_h[MaseratiMC12]

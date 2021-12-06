@@ -1,0 +1,3 @@
+ipc2020-domains/partial-order/UM-Translog/12-A-RefrigeratedTankerTruck.hddl
+ipc2020-domains/partial-order/UM-Translog/domain.hddl
+collect_fees[Chemicalien];obtain_permit[Chemicalien];affix_warning_signs[Pferd];connect_hose[Pferd,Chemicalien];open_valve[Pferd];fill_tank[Pferd,Chemicalien,O27];move_vehicle_no_traincar[Pferd,O27,James_Franck_Ring,O28];decontaminate_interior[Pferd];close_valve[Pferd];remove_warning_signs[Pferd];disconnect_hose[Pferd,Chemicalien];open_valve[Pferd];connect_hose[Pferd,Chemicalien];empty_tank[Pferd,Chemicalien,O28];close_valve[Pferd];disconnect_hose[Pferd,Chemicalien];deliver_h[Chemicalien]

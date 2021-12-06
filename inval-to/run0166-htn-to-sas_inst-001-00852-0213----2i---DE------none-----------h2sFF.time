@@ -1,0 +1,3 @@
+ipc2020-domains/total-order/Elevator-Learned-ECAI-16/s10-0.hddl
+ipc2020-domains/total-order/Elevator-Learned-ECAI-16/domain.hddl
+i-FLAG-SERVED[P8];i-FLAG-SERVED[P7];i-FLAG-SERVED[P6];i-FLAG-SERVED[P5];i-FLAG-SERVED[P4];i-LOCK-SERVED[P3];i-FLAG-SERVED[P2];i-LOCK-SERVED[P1];i-LOCK-SERVED[P0]

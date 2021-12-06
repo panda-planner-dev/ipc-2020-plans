@@ -1,0 +1,3 @@
+ipc2020-domains/partial-order/UM-Translog/09-A-MailTraincar.hddl
+ipc2020-domains/partial-order/UM-Translog/domain.hddl
+collect_fees[Briefe];open_door[Eisenbahnwagen];load_package[Briefe,Eisenbahnwagen,HauptbahnhofUlm];attach_train_car[Lokomotive,Eisenbahnwagen,HauptbahnhofUlm];move_vehicle_no_traincar[Lokomotive,HauptbahnhofUlm,UlmMuenchenRailRoute,HauptbahnhofMuenchen];close_door[Eisenbahnwagen];detach_train_car[Lokomotive,Eisenbahnwagen,HauptbahnhofMuenchen];open_door[Eisenbahnwagen];unload_package[Briefe,Eisenbahnwagen,HauptbahnhofMuenchen];close_door[Eisenbahnwagen];deliver_p[Briefe]

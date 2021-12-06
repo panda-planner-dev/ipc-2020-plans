@@ -1,0 +1,3 @@
+ipc2020-domains/partial-order/Rover/pfile04.hddl
+ipc2020-domains/partial-order/Rover/domain.hddl
+calibrate[rover1,camera0,objective0,waypoint2];navigate[rover1,waypoint2,waypoint1];take_image[rover1,waypoint1,objective0,camera0,high_res];communicate_image_data[rover1,general,objective0,high_res,waypoint1,waypoint2];calibrate[rover1,camera0,objective0,waypoint1];take_image[rover1,waypoint1,objective0,camera0,high_res];calibrate[rover1,camera0,objective0,waypoint1];communicate_image_data[rover1,general,objective0,high_res,waypoint1,waypoint2];take_image[rover1,waypoint1,objective0,camera0,high_res];communicate_image_data[rover1,general,objective0,high_res,waypoint1,waypoint2]

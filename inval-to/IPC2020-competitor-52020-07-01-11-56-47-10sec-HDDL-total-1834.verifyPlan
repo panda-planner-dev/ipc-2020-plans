@@ -1,0 +1,3 @@
+ipc2020-domains/total-order/Transport/domain.hddl
+ipc2020-domains/total-order/Transport/pfile01.hddl
+drop[truck_0,city_loc_2,package_1,capacity_0,capacity_1];drive[truck_0,city_loc_1,city_loc_2];pick_up[truck_0,city_loc_1,package_1,capacity_0,capacity_1];drive[truck_0,city_loc_0,city_loc_1];drop[truck_0,city_loc_0,package_0,capacity_0,capacity_1];drive[truck_0,city_loc_1,city_loc_0];pick_up[truck_0,city_loc_1,package_0,capacity_0,capacity_1];drive[truck_0,city_loc_2,city_loc_1]

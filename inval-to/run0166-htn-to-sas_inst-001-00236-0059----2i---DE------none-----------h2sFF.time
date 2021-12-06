@@ -1,0 +1,3 @@
+ipc2020-domains/total-order/Blocksworld-GTOHP/p09.hddl
+ipc2020-domains/total-order/Blocksworld-GTOHP/domain.hddl
+nop[];nop[];nop[];nop[];nop[];nop[];nop[];pick-up[b5];stack[b5,b10];nop[];nop[];nop[];nop[];nop[];nop[];nop[];unstack[b7,b1];stack[b7,b9];nop[];nop[]

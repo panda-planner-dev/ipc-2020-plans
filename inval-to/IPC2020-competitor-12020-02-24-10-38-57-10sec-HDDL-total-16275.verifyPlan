@@ -1,0 +1,3 @@
+domains/total-order/UM-Translog/domain.hddl
+domains/total-order/UM-Translog/15-A-RegularTruck-3Locations.hddl
+collect_fees[Toshiba_Laptops];obtain_permit[Toshiba_Laptops];move_vehicle_no_traincar[Pferd,Bibliothek,Frauen_Strasse,O27];affix_warning_signs[Pferd];connect_chute[Pferd];fill_hopper[Toshiba_Laptops,Pferd,O27];disconnect_chute[Pferd];move_vehicle_no_traincar[Pferd,O27,James_Franck_Ring,O28];post_guard_outside[Pferd];connect_hose[Pferd,Toshiba_Laptops];open_valve[Pferd];empty_tank[Pferd,Toshiba_Laptops,O28];close_valve[Pferd];disconnect_hose[Pferd,Toshiba_Laptops];remove_guard[Pferd];deliver_h[Toshiba_Laptops]

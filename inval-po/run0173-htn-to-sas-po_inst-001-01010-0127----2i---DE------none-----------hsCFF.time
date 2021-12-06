@@ -1,0 +1,3 @@
+ipc2020-domains/partial-order/Satellite/5obs-5sat-5mod.hddl
+ipc2020-domains/partial-order/Satellite/domain.hddl
+switch_on[instrument2,satellite1];turn_to[satellite1,star1,phenomenon5];calibrate[satellite1,instrument2,star1];turn_to[satellite1,planet6,star1];take_image[satellite1,planet6,instrument2,spectrograph0];take_image[satellite1,planet6,instrument2,spectrograph0];take_image[satellite1,planet6,instrument2,spectrograph0];take_image[satellite1,planet6,instrument2,spectrograph0];take_image[satellite1,planet6,instrument2,spectrograph0]

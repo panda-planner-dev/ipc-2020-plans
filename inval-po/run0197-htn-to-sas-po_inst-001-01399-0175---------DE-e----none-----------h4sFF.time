@@ -1,0 +1,3 @@
+ipc2020-domains/partial-order/UM-Translog/03-A-ArmoredRegularTruck.hddl
+ipc2020-domains/partial-order/UM-Translog/domain.hddl
+collect_fees[Gemaelde];collect_insurance[Gemaelde];post_guard_outside[Pferd];load_package[Gemaelde,Pferd,O27];open_door[Pferd];move_vehicle_no_traincar[Pferd,O27,James_Franck_Ring,O28];post_guard_outside[Pferd];unload_package[Gemaelde,Pferd,O28];close_door[Pferd];open_door[Pferd];close_door[Pferd];remove_guard[Pferd];post_guard_inside[Pferd];deliver_v[Gemaelde]

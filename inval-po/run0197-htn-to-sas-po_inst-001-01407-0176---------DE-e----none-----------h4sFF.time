@@ -1,0 +1,3 @@
+ipc2020-domains/partial-order/UM-Translog/04-A-AutoTraincar-bis.hddl
+ipc2020-domains/partial-order/UM-Translog/domain.hddl
+collect_fees[MaseratiMC12];lower_ramp[Eisenbahnwagen];load_cars[MaseratiMC12,Eisenbahnwagen,HauptbahnhofUlm];attach_train_car[Lokomotive,Eisenbahnwagen,HauptbahnhofUlm];move_vehicle_no_traincar[Lokomotive,HauptbahnhofUlm,UlmStuttgartRailRoute,HauptbahnhofStuttgart];detach_train_car[Lokomotive,Eisenbahnwagen,HauptbahnhofStuttgart];raise_ramp[Eisenbahnwagen];lower_ramp[Eisenbahnwagen];unload_cars[MaseratiMC12,Eisenbahnwagen,HauptbahnhofStuttgart];raise_ramp[Eisenbahnwagen];deliver_p[MaseratiMC12]
