@@ -1,0 +1,3 @@
+domains/total-order/Zenotravel/domain.hddl
+domains/total-order/Zenotravel/zenotravel04.hddl
+fly[a1,c3,c1,f5,f4];board[p4,a1,c1];fly[a1,c1,c2,f4,f3];debark[p4,a1,c2];refuel[a2,f0,f3];fly[a2,c3,c1,f3,f0];board[p3,a2,c1];debark[p3,a2,c1];board[p2,a1,c2];fly[a1,c2,c3,f3,f2];debark[p2,a1,c3];refuel[a2,f0,f5];fly[a2,c1,c3,f5,f0];board[p5,a2,c3];debark[p5,a2,c3];fly[a1,c3,c1,f2,f1]

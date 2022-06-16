@@ -1,0 +1,3 @@
+domains/total-order/Satellite-PANDA/domain.hddl
+domains/total-order/Satellite-PANDA/1obs-1sat-1mod.hddl
+switch_on[instrument0,satellite0];turn_to[satellite0,GroundStation2,Phenomenon6];calibrate[satellite0,instrument0,GroundStation2];turn_to[satellite0,Phenomenon4,GroundStation2];take_image[satellite0,Phenomenon4,instrument0,thermograph0]

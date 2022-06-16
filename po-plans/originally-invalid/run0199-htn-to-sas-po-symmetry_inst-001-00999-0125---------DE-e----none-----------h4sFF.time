@@ -1,0 +1,3 @@
+ipc2020-domains/partial-order/Satellite/4obs-4sat-4mod.hddl
+ipc2020-domains/partial-order/Satellite/domain.hddl
+switch_on[instrument2,satellite1];calibrate[satellite1,instrument2,star1];turn_to[satellite1,star5,star1];take_image[satellite1,star5,instrument2,thermograph1];turn_to[satellite1,phenomenon3,star5];take_image[satellite1,phenomenon3,instrument2,thermograph1];turn_to[satellite1,planet4,phenomenon3];switch_on[instrument5,satellite3];take_image[satellite1,planet4,instrument2,thermograph1];turn_to[satellite3,star0,star5];calibrate[satellite3,instrument5,star0];turn_to[satellite3,planet2,star0];take_image[satellite3,planet2,instrument5,image0]

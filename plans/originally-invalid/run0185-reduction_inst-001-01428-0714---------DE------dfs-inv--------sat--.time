@@ -1,0 +1,3 @@
+ipc2020-domains/total-order/Robot/pfile_02_001.hddl
+ipc2020-domains/total-order/Robot/domain.hddl
+open[c,r2,d02];move[c,r2,d02];pickup[o1,r2];move[r2,c,d02];move[c,r1,d01];putdown[o1,r1]
